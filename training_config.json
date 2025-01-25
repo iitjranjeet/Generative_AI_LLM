@@ -1,0 +1,9 @@
+{
+  "use_peft": true,
+  "use_int4": true,
+  "learning_rate": 2e-4,
+  "train_batch_size": 12,
+  "num_train_epochs": 3,
+  "push_to_hub": true,
+  "repo_id": "IITJ-Ranjeet/mistral-7b-finetuned_ranjeet"
+}
